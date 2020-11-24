@@ -1,0 +1,23 @@
+.menu-btn {
+background-color: #383838 !important;
+color: white;
+font-size: 24px !important;
+width: 50px !important;
+}
+
+.nav-heading {
+    font-family: 'Nanum Gothic' !important;
+    font-weight: 300 !important;
+    font-size: 32px !important;
+    padding-left: 10px; 
+}
+
+.nav-flex-bar {
+    width: 100%;
+    background-color: #383838;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+    position: relative;
+    box-shadow: 4px 5px 30px #383838;
+}
